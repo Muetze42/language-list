@@ -1,0 +1,21 @@
+{
+    "name": "norman-huth/language-list",
+    "description": "List of all languages with names and ISO 639-1 codes in all languages",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NormanHuth\\LanguageList\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saša Stamenković",
+            "email": "umpirsky@gmail.com"
+        },
+        {
+            "name": "Norman Huth",
+            "homepage": "https://huth.it"
+        }
+    ],
+    "require": {}
+}
